@@ -1,3 +1,5 @@
+package PureHandwriting;
+
 interface Shape {
     public void whoAmI();
 }

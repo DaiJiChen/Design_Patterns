@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05fbde52-ecaf-45a7-b642-d03df8726290" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PureHandwriting/FactoryDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObserverDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PureHandwriting/ObserverDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProxyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PureHandwriting/ProxyDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SingletonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PureHandwriting/SingletonDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PureHandwriting/demo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,30 +45,35 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\daiji\OneDrive\Desktop\Design_Pattern\src\PureHandwriting" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.ProxyDemo">
     <configuration name="FactoryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FactoryDemo" />
+      <option name="MAIN_CLASS_NAME" value="PureHandwriting.FactoryDemo" />
       <module name="Design_Pattern" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ObserverDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObserverDemo" />
+      <option name="MAIN_CLASS_NAME" value="PureHandwriting.ObserverDemo" />
       <module name="Design_Pattern" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ProxyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProxyDemo" />
+      <option name="MAIN_CLASS_NAME" value="PureHandwriting.ProxyDemo" />
       <module name="Design_Pattern" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="SingletonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SingletonDemo" />
+      <option name="MAIN_CLASS_NAME" value="PureHandwriting.SingletonDemo" />
       <module name="Design_Pattern" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,6 +102,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="752" y="-772" key="FileChooserDialogImpl" timestamp="1607143169779">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="752" y="-772" key="FileChooserDialogImpl/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1607143169779" />
     <state width="1037" height="571" key="GridCell.Tab.0.bottom" timestamp="1605656782218">
       <screen x="1920" y="-853" width="1080" height="1920" />
     </state>

@@ -1,4 +1,4 @@
-import sun.nio.ch.Net;
+package PureHandwriting;
 
 public class ProxyDemo {
     public static void main(String[] args) {

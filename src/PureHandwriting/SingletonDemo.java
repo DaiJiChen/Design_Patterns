@@ -1,3 +1,5 @@
+package PureHandwriting;
+
 //饿汉式
 class Singleton1 {
     int val;
