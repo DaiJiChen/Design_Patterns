@@ -2,12 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05fbde52-ecaf-45a7-b642-d03df8726290" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/PureHandwriting/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FactoryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PureHandwriting/FactoryDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObserverDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PureHandwriting/ObserverDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProxyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PureHandwriting/ProxyDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SingletonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PureHandwriting/SingletonDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PureHandwriting/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Pattern/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Pattern/ConcreteNetwork.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Pattern/FactoryDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Pattern/Network.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Pattern/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Pattern/ObserverDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Pattern/Proxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Pattern/ProxyDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Pattern/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Pattern/ShapeFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Pattern/Singleton1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Pattern/Singleton2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Pattern/Singleton3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Pattern/Singleton3$instanceHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Pattern/Singleton3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Pattern/SingletonDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Pattern/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Pattern/Subject.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +64,7 @@
       <recent name="C:\Users\daiji\OneDrive\Desktop\Design_Pattern\src\PureHandwriting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProxyDemo">
+  <component name="RunManager" selected="Application.test">
     <configuration name="FactoryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PureHandwriting.FactoryDemo" />
       <module name="Design_Pattern" />
@@ -79,8 +93,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PureHandwriting.test" />
+      <module name="Design_Pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PureHandwriting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.ProxyDemo" />
         <item itemvalue="Application.ObserverDemo" />
         <item itemvalue="Application.FactoryDemo" />
@@ -106,27 +134,31 @@
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
     <state x="752" y="-772" key="FileChooserDialogImpl/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1607143169779" />
-    <state width="1037" height="571" key="GridCell.Tab.0.bottom" timestamp="1605656782218">
-      <screen x="1920" y="-853" width="1080" height="1920" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1607677523056">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1607677523056" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/341.-1920.1018.1920@0.0.1920.1040" timestamp="1605536810803" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605559816943" />
     <state width="1037" height="571" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.-853.1080.1920@1920.-853.1080.1920" timestamp="1605656782218" />
-    <state width="1037" height="571" key="GridCell.Tab.0.center" timestamp="1605656782218">
-      <screen x="1920" y="-853" width="1080" height="1920" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1607677523055">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1607677523055" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/341.-1920.1018.1920@0.0.1920.1040" timestamp="1605536810803" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605559816943" />
     <state width="1037" height="571" key="GridCell.Tab.0.center/0.0.1920.1080/1920.-853.1080.1920@1920.-853.1080.1920" timestamp="1605656782218" />
-    <state width="1037" height="571" key="GridCell.Tab.0.left" timestamp="1605656782218">
-      <screen x="1920" y="-853" width="1080" height="1920" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1607677523055">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1607677523055" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/341.-1920.1018.1920@0.0.1920.1040" timestamp="1605536810803" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605559816943" />
     <state width="1037" height="571" key="GridCell.Tab.0.left/0.0.1920.1080/1920.-853.1080.1920@1920.-853.1080.1920" timestamp="1605656782218" />
-    <state width="1037" height="571" key="GridCell.Tab.0.right" timestamp="1605656782218">
-      <screen x="1920" y="-853" width="1080" height="1920" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1607677523056">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1607677523056" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/341.-1920.1018.1920@0.0.1920.1040" timestamp="1605536810803" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605559816943" />
     <state width="1037" height="571" key="GridCell.Tab.0.right/0.0.1920.1080/1920.-853.1080.1920@1920.-853.1080.1920" timestamp="1605656782218" />
