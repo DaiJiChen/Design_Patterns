@@ -5,7 +5,7 @@ Design Patterns are reusable solutions to commonly occuring problems。 Design p
 
 ## 1、Creational Design Patterns
 
-- [documents/singleton.md].(Design_Patterns%20%20-%20singleton.md)
+- [singleton.md](https://github.com/DaiJiChen/Design_Patterns/blob/master/documents/singleton.md)
 
 
 
