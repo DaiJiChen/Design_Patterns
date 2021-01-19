@@ -32,11 +32,11 @@ public class ConcreteFoo2 implements foo {
 ```
 
 
-Simpla Factory: This SimpleFactory class is used by client class
+Simple Factory: This SimpleFactory class is used by client class
 ```java
 public class SimpleFactory {
 
-    public Product createFoo(int type) {
+    public Foo createFoo(int type) {
         if (type == 1) {
             return new ConcreteFoo1();
         } else if (type == 2) {
