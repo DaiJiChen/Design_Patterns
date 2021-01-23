@@ -7,6 +7,7 @@ Design Patterns are reusable solutions to commonly occuring problems。 Design p
 
 - [Singleton.md](https://github.com/DaiJiChen/Design_Patterns/blob/master/documents/Singleton.md)
 - [SimpleFactory.md](https://github.com/DaiJiChen/Design_Patterns/edit/master/documents/Factory.md)
+- [FactoryMethod.md](https://github.com/DaiJiChen/Design_Patterns/edit/master/documents/FactoryMethod.md)
 
 
 
