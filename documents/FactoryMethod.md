@@ -47,8 +47,8 @@ public class ConcreteFactory2 extends Factory {
 {
 	public static void main( String arg[] ) 
 	{
-		Factory factory = new ConcreteFactory();
-		factory.anOperation();
+		Factory factory = new ConcreteFactory1();
+		Product product = factory.factoryMethos();
 	}
 }
 ```
