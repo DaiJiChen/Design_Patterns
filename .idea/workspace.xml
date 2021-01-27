@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05fbde52-ecaf-45a7-b642-d03df8726290" name="Default Changelist" comment="" />
+    <list default="true" id="05fbde52-ecaf-45a7-b642-d03df8726290" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PureHandwriting/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PureHandwriting/test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +40,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -109,10 +116,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="752" y="-772" key="FileChooserDialogImpl" timestamp="1607143169779">
+    <state x="640" y="-821" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1611367827841">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="752" y="-772" key="FileChooserDialogImpl/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1607143169779" />
+    <state x="640" y="-821" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1611367827841" />
+    <state x="752" y="-772" key="FileChooserDialogImpl" timestamp="1611369786528">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="752" y="-772" key="FileChooserDialogImpl/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1611369786528" />
     <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1609048367618">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -141,9 +152,18 @@
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/341.-1920.1018.1920@0.0.1920.1040" timestamp="1605536810803" />
     <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609048367618" />
     <state width="1037" height="571" key="GridCell.Tab.0.right/0.0.1920.1080/1920.-853.1080.1920@1920.-853.1080.1920" timestamp="1605656782218" />
-    <state x="1920" y="-266" key="new project wizard" timestamp="1605602628517">
-      <screen x="1920" y="-853" width="1080" height="1920" />
+    <state x="440" y="-982" key="SettingsEditor" timestamp="1611369471304">
+      <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
+    <state x="440" y="-982" key="SettingsEditor/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1611369471304" />
+    <state x="226" y="-810" key="new project wizard" timestamp="1611369794269">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="226" y="-810" key="new project wizard/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1611369794269" />
     <state x="1920" y="-266" key="new project wizard/0.0.1920.1080/1920.-853.1080.1920@1920.-853.1080.1920" timestamp="1605602628517" />
+    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup" timestamp="1611368376939">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1611368376939" />
   </component>
 </project>
