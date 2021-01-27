@@ -9,6 +9,8 @@ Design Patterns are reusable solutions to commonly occuring problems。 Design p
 - [SimpleFactory.md](https://github.com/DaiJiChen/Design_Patterns/edit/master/documents/Factory.md)
 - [FactoryMethod.md](https://github.com/DaiJiChen/Design_Patterns/edit/master/documents/FactoryMethod.md)
 - [AbstractFactory.md](https://github.com/DaiJiChen/Design_Patterns/edit/master/documents/AbstractFactory.md)
+- [Builder.md](https://github.com/DaiJiChen/Design_Patterns/edit/master/documents/BuilderPattern.md)
+- [Prototype.md](https://github.com/DaiJiChen/Design_Patterns/edit/master/documents/PrototypePattern.md)
 
 
 
