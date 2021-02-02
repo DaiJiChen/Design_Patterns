@@ -3,7 +3,7 @@
 Design Patterns are reusable solutions to commonly occuring problems。 Design patterns were started as best practices that were applied again and again to similar problems encountered in different contexts.
 
 
-## 1、Creational Design Patterns
+## 1、Creational Patterns
 
 - [Singleton.md](https://github.com/DaiJiChen/Design_Patterns/blob/master/documents/Singleton.md)
 - [SimpleFactory.md](https://github.com/DaiJiChen/Design_Patterns/edit/master/documents/Factory.md)
@@ -12,6 +12,11 @@ Design Patterns are reusable solutions to commonly occuring problems。 Design p
 - [Builder.md](https://github.com/DaiJiChen/Design_Patterns/edit/master/documents/BuilderPattern.md)
 - [Prototype.md](https://github.com/DaiJiChen/Design_Patterns/edit/master/documents/PrototypePattern.md)
 
+
+## 2、Behavioral Patterns
+
+- [Chain_of_responsibility](/documents/Chain-Of-Responsibility.md)
+- [Command](/documents/Command.md)
 
 
 ## references
