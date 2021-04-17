@@ -15,14 +15,14 @@ Command: an interface
 
 ConcreteCommand: Represent a certain kind of operation. Such as `read book` or `close book`
 
-Receiver: Receiver of all commands. An object to represent the things that are operated. Such as a `book`
+Receiver: An object that represent the things to be operated. Such as a `book`
 
-Invoker: Involks all commands. The object taht will call operations. such as a `reader' or 'student'
+Invoker: The object who calls operations. such as a `reader' or 'student'
 
 Client: set command and receive feedbacks. 
 
 
-Implementation
+### Implementation
 
 Implement operations of book.
 
@@ -33,10 +33,10 @@ public interface Command {
 ```
 
 ```java
-public class ReadBookCommand implements Command {
+public class ReadBook implements Command {
   Book book;
   
-  public ReadBookCommand(Book book) {this.book = book;}
+  public ReadBook(Book book) {this.book = book;}
   
   @Override
   public void execute() {
@@ -46,10 +46,10 @@ public class ReadBookCommand implements Command {
 ```
 
 ```java
-public class CloseBookCommand implements Command {
+public class CloseBook implements Command {
   Book book;
   
-  public CloseBookCommand(Book book) {this.book = book;}
+  public CloseBook(Book book) {this.book = book;}
   
   @Override
   public void execute() {
@@ -94,8 +94,8 @@ public class client {
     Reader reader = new Reader();
     Book book = new Book();
     
-    Command read = new ReadBookCommand(book);
-    Command close = new CloseBookCommand(book);
+    Command read = new ReadBook(book);
+    Command close = new CloseBook(book);
     
     reader.do(read);
     reader.do(close);
